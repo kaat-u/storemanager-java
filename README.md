@@ -1,7 +1,5 @@
 # gestion-tienda-java — Sistema de Gestión de Productos, Clientes y Ventas
 
-Proyecto final del curso de Programación Orientada a Objetos.
-
 ## Descripción
 
 Aplicación de consola en Java que permite administrar clientes, empleados, productos e inventario de
@@ -141,3 +139,7 @@ de datos: el Aceite 1L pasó de 30 a 20 unidades (se vendieron 10) y el Arroz 5k
 de 47 a 27 (se vendieron 20).
 
 ![Stock actualizado](docs/capturas/stock-productos-actualizados.png)
+
+## Curso
+
+Programación Orientada a Objetos
