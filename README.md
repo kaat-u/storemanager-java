@@ -1,4 +1,4 @@
-# gestion-tienda-java — Sistema de Gestión de Productos, Clientes y Ventas
+Sistema de Gestión de Productos, Clientes y Ventas
 
 ## Descripción
 
