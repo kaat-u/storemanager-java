@@ -1,10 +1,8 @@
-Sistema de Gestión de Productos, Clientes y Ventas
+# Sistema de Gestión de Productos, Clientes y Ventas
 
 ## Descripción
 
-Aplicación de consola en Java que permite administrar clientes, empleados, productos e inventario de
-una tienda comercial, registrar ventas con cálculo automático de IGV, actualizar el stock y persistir
-toda la información en una base de datos mediante JDBC.
+Aplicación de consola en Java que permite administrar clientes, empleados, productos e inventario de una tienda comercial, registrar ventas con cálculo automático de IGV, actualizar el stock y persistir toda la información en una base de datos mediante JDBC.
 
 ## Integrantes y reparto de tareas
 
@@ -19,7 +17,7 @@ Todos los integrantes participan también en la revisión cruzada del código y 
 
 ## Tecnologías utilizadas
 
-- Java 17
+- Java 21 (Oracle OpenJDK 21.0.9)
 - JDBC
 - MySQL (u otro motor relacional)
 - IntelliJ IDEA
