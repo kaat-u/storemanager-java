@@ -1,7 +1,7 @@
-package com.lideratec;
+package org.example;
 
-import com.lideratec.bd.ConexionBD;
-import com.lideratec.vista.MenuPrincipal;
+import org.example.bd.ConexionBD;
+import org.example.vista.MenuPrincipal;
 
 /**
  * Punto de entrada del sistema de gestion de tienda.

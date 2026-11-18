@@ -1,7 +1,7 @@
-package com.lideratec.service;
+package org.example.service;
 
-import com.lideratec.model.DetalleVenta;
-import com.lideratec.model.Producto;
+import org.example.model.DetalleVenta;
+import org.example.model.Producto;
 
 import java.util.ArrayList;
 

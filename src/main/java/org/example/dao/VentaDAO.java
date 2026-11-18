@@ -1,11 +1,11 @@
-package com.lideratec.dao;
+package org.example.dao;
 
-import com.lideratec.bd.ConexionBD;
-import com.lideratec.model.Cliente;
-import com.lideratec.model.DetalleVenta;
-import com.lideratec.model.Empleado;
-import com.lideratec.model.Producto;
-import com.lideratec.model.Venta;
+import org.example.bd.ConexionBD;
+import org.example.model.Cliente;
+import org.example.model.DetalleVenta;
+import org.example.model.Empleado;
+import org.example.model.Producto;
+import org.example.model.Venta;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

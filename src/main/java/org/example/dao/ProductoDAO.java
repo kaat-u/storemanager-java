@@ -1,7 +1,7 @@
-package com.lideratec.dao;
+package org.example.dao;
 
-import com.lideratec.bd.ConexionBD;
-import com.lideratec.model.Producto;
+import org.example.bd.ConexionBD;
+import org.example.model.Producto;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

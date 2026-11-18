@@ -1,17 +1,17 @@
-package com.lideratec.vista;
+package org.example.vista;
 
-import com.lideratec.dao.ClienteDAO;
-import com.lideratec.dao.EmpleadoDAO;
-import com.lideratec.dao.ProductoDAO;
-import com.lideratec.dao.UsuarioDAO;
-import com.lideratec.dao.VentaDAO;
-import com.lideratec.model.Cliente;
-import com.lideratec.model.DetalleVenta;
-import com.lideratec.model.Empleado;
-import com.lideratec.model.Producto;
-import com.lideratec.model.Usuario;
-import com.lideratec.model.Venta;
-import com.lideratec.service.VentaService;
+import org.example.dao.ClienteDAO;
+import org.example.dao.EmpleadoDAO;
+import org.example.dao.ProductoDAO;
+import org.example.dao.UsuarioDAO;
+import org.example.dao.VentaDAO;
+import org.example.model.Cliente;
+import org.example.model.DetalleVenta;
+import org.example.model.Empleado;
+import org.example.model.Producto;
+import org.example.model.Usuario;
+import org.example.model.Venta;
+import org.example.service.VentaService;
 
 import java.util.List;
 import java.util.Scanner;

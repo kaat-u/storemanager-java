@@ -21,7 +21,7 @@ Todos los integrantes participan también en la revisión cruzada del código y 
 
 ## Tecnologías utilizadas
 
-- Java 17
+- Java 25
 - JDBC
 - MySQL (u otro motor relacional)
 - IntelliJ IDEA
@@ -38,8 +38,8 @@ gestion-tienda-java/
 ├── src/
 │   └── main/
 │       └── java/
-│           └── com/
-│               └── lideratec/
+│           └── org/
+│               └── example/
 │                   ├── model/
 │                   │   ├── Persona.java
 │                   │   ├── Cliente.java
@@ -79,7 +79,7 @@ Cada capa tiene una responsabilidad clara: `model` define las entidades (POO),
    ```
 2. Tener MySQL corriendo en `localhost:3306` con el usuario `root` y contraseña `root`.
    Estas credenciales son las que el equipo acordó usar y ya están configuradas en
-   `src/main/java/com/lideratec/bd/ConexionBD.java`, por lo que no hace falta editar
+   `src/main/java/org/example/bd/ConexionBD.java`, por lo que no hace falta editar
    nada en el código.
 3. Crear la base de datos ejecutando `sql/script_creacion_bd.sql` en MySQL. El script
    crea las tablas y carga datos de prueba (productos, un cliente, un empleado y dos usuarios).

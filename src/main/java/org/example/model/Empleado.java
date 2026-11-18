@@ -1,4 +1,4 @@
-package com.lideratec.model;
+package org.example.model;
 
 public class Empleado extends Persona {
     private String cargo;

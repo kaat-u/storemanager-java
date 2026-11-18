@@ -1,4 +1,4 @@
-package com.lideratec.bd;
+package org.example.bd;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

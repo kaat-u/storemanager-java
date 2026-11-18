@@ -1,4 +1,4 @@
-package com.lideratec.model;
+package org.example.model;
 
 public class Producto {
     private int id;
