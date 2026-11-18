@@ -1,12 +1,8 @@
-# gestion-tienda-java — Sistema de Gestión de Productos, Clientes y Ventas
-
-Proyecto final del curso de Programación Orientada a Objetos.
+# Sistema de Gestión de Productos, Clientes y Ventas
 
 ## Descripción
 
-Aplicación de consola en Java que permite administrar clientes, empleados, productos e inventario de
-una tienda comercial, registrar ventas con cálculo automático de IGV, actualizar el stock y persistir
-toda la información en una base de datos mediante JDBC.
+Aplicación de consola en Java que permite administrar clientes, empleados, productos e inventario de una tienda comercial, registrar ventas con cálculo automático de IGV, actualizar el stock y persistir toda la información en una base de datos mediante JDBC.
 
 ## Integrantes y reparto de tareas
 
@@ -79,7 +75,7 @@ Cada capa tiene una responsabilidad clara: `model` define las entidades (POO),
    ```
 2. Tener MySQL corriendo en `localhost:3306` con el usuario `root` y contraseña `root`.
    Estas credenciales son las que el equipo acordó usar y ya están configuradas en
-   `src/main/java/org/example/bd/ConexionBD.java`, por lo que no hace falta editar
+   `src/main/java/com/lideratec/bd/ConexionBD.java`, por lo que no hace falta editar
    nada en el código.
 3. Crear la base de datos ejecutando `sql/script_creacion_bd.sql` en MySQL. El script
    crea las tablas y carga datos de prueba (productos, un cliente, un empleado y dos usuarios).
@@ -141,3 +137,7 @@ de datos: el Aceite 1L pasó de 30 a 20 unidades (se vendieron 10) y el Arroz 5k
 de 47 a 27 (se vendieron 20).
 
 ![Stock actualizado](docs/capturas/stock-productos-actualizados.png)
+
+## Curso
+
+Programación Orientada a Objetos
